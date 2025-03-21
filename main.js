@@ -50,5 +50,6 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 ) ; 
 
-  loadContacts();
+  
+loadContacts();
 }) ;
